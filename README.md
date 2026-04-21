@@ -166,8 +166,6 @@ QA Automation Engineer (Junior) 🚀
 
 ## 📬 Contact
 
-If you're a recruiter or hiring manager, feel free to connect:
-
 * LinkedIn: *https://www.linkedin.com/in/carlos-lenis-812a5918/*
 * GitHub: https://github.com/Fitzonder
 
